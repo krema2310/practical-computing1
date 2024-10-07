@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 .jupyter/
 notebooks/*.txt
+.virtual_documents/
+
