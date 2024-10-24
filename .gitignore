@@ -163,4 +163,3 @@ cython_debug/
 .jupyter/
 notebooks/*.txt
 .virtual_documents/
-
